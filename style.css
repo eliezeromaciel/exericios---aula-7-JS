@@ -1,0 +1,44 @@
+body {
+  margin-left: 100px;
+  background-color: rgb(249, 249, 250);
+  margin-right: 700px;
+}
+
+main > input {
+  padding: 5px;
+  margin-right: 3px;
+}
+
+main > input:hover {
+  background-color: rgb(190, 184, 184);
+  color: white;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+}
+
+footer {
+  padding: 15px;
+}
+
+.resultado {
+  color: red;
+  font-size: 35px;
+  text-align: center;
+}
+
+.button-soma {
+  background-color: transparent;
+  border-radius: 23px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: -2px -2px 15px #2f6627;
+}
